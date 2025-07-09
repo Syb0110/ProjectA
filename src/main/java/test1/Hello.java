@@ -5,7 +5,7 @@ public class Hello {
         int a = 1;
         int c = 3;
         int b = 2;
-        int d = 10;
+        int d = 15;
         int e = 6;
         System.out.printf("test1");
     }
