@@ -5,6 +5,7 @@ public class FileA {
         int b = 20;
         int a = 10;
         int c = 30;
+        int d = 40;
         System.out.printf("hello world");
     }
 }
