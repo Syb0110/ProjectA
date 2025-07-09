@@ -7,6 +7,8 @@ public class Hello {
         int b = 2;
         int d = 15;
         int e = 6;
+        int f = 1;
+        int g = 1;
         System.out.printf("test1");
     }
 }
