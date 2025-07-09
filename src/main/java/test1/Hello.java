@@ -9,6 +9,8 @@ public class Hello {
         int e = 6;
         int f = 1;
         int g = 100;
+        int y;
+        int z;
         System.out.printf("test1");
     }
 }
