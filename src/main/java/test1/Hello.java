@@ -11,6 +11,7 @@ public class Hello {
         int g = 100;
         int y;
         int z;
+        int x;
         System.out.printf("test1");
     }
 }
