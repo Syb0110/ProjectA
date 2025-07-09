@@ -8,7 +8,7 @@ public class Hello {
         int d = 100;
         int e = 6;
         int f = 1;
-        int g = 1;
+        int g = 100;
         System.out.printf("test1");
     }
 }
